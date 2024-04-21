@@ -1,0 +1,17 @@
+body{
+ 
+    background-color: #fc274b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+div button {
+    border: none;
+}
+
+.quote{
+    color: blue;
+}
